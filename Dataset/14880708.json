@@ -1,0 +1,333 @@
+{
+    "id": 14880708,
+    "mediaExerciseId": "17c6fef2-1e41-4cfe-837c-dd61c519e355",
+    "exerciseName": "1",
+    "chapterName": "1",
+    "chapterTitle": "Introduction To Corporate Finance",
+    "groupId": null,
+    "groupTitle": null,
+    "isPremium": true,
+    "sectionName": "1.1",
+    "sectionTitle": "Corporate Finance and the Financial Manager",
+    "pageNumber": 4,
+    "solutions": [
+        {
+            "id": 5875233,
+            "modifiedOn": "2021-01-01T00:00:00.000000",
+            "steps": [
+                {
+                    "columns": [
+                        {
+                            "text": "In this problem, we will learn about capital budgeting.\n",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 28,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/80fe219c95df66e66060ed3d448808f7/lateximg_large.png",
+                                        "width": 725
+                                    },
+                                    "regular": {
+                                        "height": 15,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/80fe219c95df66e66060ed3d448808f7/lateximg.png",
+                                        "width": 361
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": true
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 1
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "Before we begin, let us first define capital budgeting.\n\n**Capital budgeting** is a process evaluating potential projects or investments. \n\n",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 66,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/96003ce1d723458d75fdc2770723e391/lateximg_large.png",
+                                        "width": 1028
+                                    },
+                                    "regular": {
+                                        "height": 34,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/96003ce1d723458d75fdc2770723e391/lateximg.png",
+                                        "width": 514
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 2
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "a. The capital budgeting decision is to **whether accept the project or reject it**, provided that there is thorough estimates of timing and amount of cash flow for the proposal.",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 105,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/e07a21455b7b780176b6d0502b7ac7e2/lateximg_large.png",
+                                        "width": 997
+                                    },
+                                    "regular": {
+                                        "height": 53,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/e07a21455b7b780176b6d0502b7ac7e2/lateximg.png",
+                                        "width": 498
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 3
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "b. **Capital structure** is the specific mixture of long-term debt and equity that a firm chooses to use in its operations.",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 68,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/bd56e5023bb47ca0966b46f22ee3334e/lateximg_large.png",
+                                        "width": 997
+                                    },
+                                    "regular": {
+                                        "height": 34,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/bd56e5023bb47ca0966b46f22ee3334e/lateximg.png",
+                                        "width": 498
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 4
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "c. The cash management fall on **Working Capital Management** category of financial management.",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 68,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/0b404d726947a571b70f7c520cecdf9b/lateximg_large.png",
+                                        "width": 996
+                                    },
+                                    "regular": {
+                                        "height": 34,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/21/12/13/786b1703a41b7917d8b5805323255b17/0b404d726947a571b70f7c520cecdf9b/lateximg.png",
+                                        "width": 499
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 5
+                }
+            ],
+            "rating": 5,
+            "solutionUuid": "bf2cd55d-e7f5-4d94-932c-3cd2b6643c08",
+            "editorVersion": 2,
+            "answeredOn": null,
+            "ratingCount": null,
+            "solutionOrder": null,
+            "totalSteps": 5
+        },
+        {
+            "id": 5979917,
+            "modifiedOn": "2021-01-01T00:00:00.000000",
+            "steps": [
+                {
+                    "columns": [
+                        {
+                            "text": "## Requirement 1\n\nIn this requirement, we are asked to define capital budgeting decision.",
+                            "images": {
+                                "latex": null,
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 1
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "**Capital budgeting decision** is the process of planning, managing and evaluating long-term investment or projects to be entered into by a company. The financial manager identifies whether an investments' returns exceed its costs. The business will opt for an investment in which cash inflow is greater than the cash outflow.\n",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 175,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/9cd6f8b546b6d2b146253fe36ffe3af8/lateximg_large.png",
+                                        "width": 996
+                                    },
+                                    "regular": {
+                                        "height": 88,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/9cd6f8b546b6d2b146253fe36ffe3af8/lateximg.png",
+                                        "width": 499
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 2
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "## Requirement 2\n\nIn this requirement, we are asked the term called for the mixture of long-term debt and equity structure that a business opted to use.",
+                            "images": {
+                                "latex": null,
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 3
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "**Capital structure** is a unique combination of debt and capital that a company uses to finance its overall business and growth. The financial manager have the responsibility to identify which mixture of debt and equity is the best for the business and the most affordable source of fund for the firm. \n",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 176,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/36839a29e9cb25076061d48e698d21b7/lateximg_large.png",
+                                        "width": 997
+                                    },
+                                    "regular": {
+                                        "height": 89,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/36839a29e9cb25076061d48e698d21b7/lateximg.png",
+                                        "width": 498
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 4
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "## Requirement 3\n\nIn this requirement, we are asked the financial management category in which cash management fall.",
+                            "images": {
+                                "latex": null,
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 5
+                },
+                {
+                    "columns": [
+                        {
+                            "text": "Cash management falls under **Working Capital Management**. Working capital refers to the short-term assets of the company such as accounts receivables, prepaid assets and inventories. Working capital management is the process of managing the firm's short-term assets to finance their day-to-day operations. Since cash is a short-term asset it is also a part of working capital. \n",
+                            "images": {
+                                "latex": {
+                                    "large": {
+                                        "height": 218,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/b61fb01df32ce7f759ac908905a3e51a/lateximg_large.png",
+                                        "width": 996
+                                    },
+                                    "regular": {
+                                        "height": 110,
+                                        "srcUrl": "https://d2nchlq0f2u6vy.cloudfront.net/22/01/03/4dae95d1e51d54adc6890671c8459bae/b61fb01df32ce7f759ac908905a3e51a/lateximg.png",
+                                        "width": 498
+                                    }
+                                },
+                                "additional": null
+                            },
+                            "hasInvalidKatex": false,
+                            "isTextOnly": false
+                        }
+                    ],
+                    "isResult": false,
+                    "stepNumber": 6
+                }
+            ],
+            "rating": 5,
+            "solutionUuid": "d916c291-1beb-4591-9d27-e0dc57b62b2f",
+            "editorVersion": 2,
+            "answeredOn": null,
+            "ratingCount": null,
+            "solutionOrder": null,
+            "totalSteps": 6
+        }
+    ],
+    "textbook": {
+        "authors": "Bradford D. Jordan, Randolph W. Westerfield, Stephen A. Ross",
+        "imageUrl": "https://d2nchlq0f2u6vy.cloudfront.net/textbook_covers/tmpm0p82b7h",
+        "imageThumbnailUrl": "https://d2nchlq0f2u6vy.cloudfront.net/cache/d1/d3/d1d34d106dd29dd2e71be582412ef59d.jpg",
+        "id": 34320,
+        "isbn": "9781259918957",
+        "isPremium": true,
+        "title": "Fundamentals of Corporate Finance",
+        "edition": "12th Edition",
+        "verifiedSolutionCount": 1217,
+        "shouldBeIndexableForSeo": true,
+        "modified": 1665448474394,
+        "active": true,
+        "publisher": "McGraw-Hill Education",
+        "mainTextbookIsbn": null,
+        "subjects": {
+            "level1": [
+                "Social Science"
+            ],
+            "level2": [
+                "Economics"
+            ],
+            "level3": [
+                "Finance"
+            ]
+        }
+    },
+    "nextExercises": [
+        {
+            "id": 14880709,
+            "exerciseName": "2",
+            "page": 7,
+            "hasSolution": true,
+            "mediaExerciseId": "a451e4b0-9ac5-49c1-bd8c-479b672d1f66",
+            "_webUrl": "https://quizlet.com/explanations/textbook-solutions/fundamentals-of-corporate-finance-12th-edition-9781259918957/chapter-1-exercises-2-a451e4b0-9ac5-49c1-bd8c-479b672d1f66"
+        }
+    ],
+    "previousExercises": [],
+    "_webUrl": "https://quizlet.com/explanations/textbook-solutions/fundamentals-of-corporate-finance-12th-edition-9781259918957/chapter-1-exercises-1-17c6fef2-1e41-4cfe-837c-dd61c519e355"
+}
